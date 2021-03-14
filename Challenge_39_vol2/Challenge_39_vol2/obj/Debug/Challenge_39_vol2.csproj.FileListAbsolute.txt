@@ -1,0 +1,12 @@
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\Challenge_39_vol2.exe.config
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\Challenge_39_vol2.exe
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\Challenge_39_vol2.pdb
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\EntityFramework.dll
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\EntityFramework.SqlServer.dll
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\EntityFramework.xml
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\bin\Debug\EntityFramework.SqlServer.xml
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\obj\Debug\Challenge_39_vol2.csprojAssemblyReference.cache
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\obj\Debug\Challenge_39_vol2.csproj.CoreCompileInputs.cache
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\obj\Debug\Challenge_39_vol2.csproj.CopyComplete
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\obj\Debug\Challenge_39_vol2.exe
+D:\nika\c#\Challenge_57\Challenge_39_vol2\Challenge_39_vol2\obj\Debug\Challenge_39_vol2.pdb

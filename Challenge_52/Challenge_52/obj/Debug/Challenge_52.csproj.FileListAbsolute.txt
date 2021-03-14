@@ -1,0 +1,10 @@
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\bin\Debug\Challenge_52.exe.config
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\bin\Debug\Challenge_52.exe
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\bin\Debug\Challenge_52.pdb
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\obj\Debug\Challenge_52.csprojAssemblyReference.cache
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\obj\Debug\Challenge_52.csproj.CoreCompileInputs.cache
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\obj\Debug\Challenge_52.exe
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\obj\Debug\Challenge_52.pdb
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\bin\Debug\Newtonsoft.Json.dll
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\bin\Debug\Newtonsoft.Json.xml
+D:\nika\c#\Challenge_57\Challenge_52\Challenge_52\obj\Debug\Challenge_52.csproj.CopyComplete

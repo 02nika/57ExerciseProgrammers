@@ -1,0 +1,7 @@
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\bin\Debug\Challenge_21.exe.config
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\bin\Debug\Challenge_21.exe
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\bin\Debug\Challenge_21.pdb
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\obj\Debug\Challenge_21.csprojAssemblyReference.cache
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\obj\Debug\Challenge_21.csproj.CoreCompileInputs.cache
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\obj\Debug\Challenge_21.exe
+D:\nika\c#\Challenge_57\Challenge_21\Challenge_21\obj\Debug\Challenge_21.pdb
