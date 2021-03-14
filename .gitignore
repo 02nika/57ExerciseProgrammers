@@ -1,0 +1,6 @@
+*.config
+
+packages/
+bin/
+Properties/
+obj/
