@@ -28,7 +28,7 @@ namespace Challenge_48
             Console.WriteLine("Degree: " + degreesByBinarySearch);
             Console.WriteLine("Wind Speed: " + fullJson.wind.speed);
             //string degreesToString = GetInfoValue.ChooseWiseValue(GetDegreesList.degrees, (double)fullJson.wind.deg);
-
+ 
             DescriptionForPeople(Convert.ToString(fullJson.weather[0].description), Convert.ToDouble(fullJson.wind.deg));
             DescriptionForCelsius(celsius);
             Console.ReadKey();
@@ -41,7 +41,7 @@ namespace Challenge_48
             else if(celsius < 10)
                 Console.WriteLine("and outside is cold temperature. put on carefully");
             else if(celsius < 20)
-                Console.WriteLine("and outside is normal temperature. you can to dress spring or summer clothes");
+                Console.WriteLine("and outside is normal temperature. you can to dress spring clothes");
             else
                 Console.WriteLine("also, outside is so warm temperature. actually summer season is going on :D :D :D");
         }
